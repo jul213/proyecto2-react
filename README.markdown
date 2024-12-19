@@ -6,7 +6,7 @@ se utilizan varios hooks nativos de react
 ***
 
 # contenido
-productos mediante una api
-precio
-carrito para añadir productos
+* productos mediante una api
+* precio
+* carrito para añadir productos
 
